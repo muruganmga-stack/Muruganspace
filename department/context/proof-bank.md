@@ -9,7 +9,7 @@ real happens.
 | 1 | Pipeline and revenue from nurturing | Nurturing programs at Champions Group | $629,281 pipeline influenced, $313,455 revenue (exact, supersedes $500K+/$300K+) | Employer: yes | Murugan, 2026-10-06 |
 | 2 | Dormant account reactivation | Automation-driven sequences | 1,200+ dormant accounts reactivated | Employer: yes | LinkedIn experience |
 | 3 | Lead magnets | Across verticals | 40%+ ROI improvement | Employer: yes | LinkedIn experience |
-| 4 | New product launch | Startup new product launch (was listed as travel & tourism turnaround) | Revenue in 5 months: CONFIRM figure, written as "$46,7008" | Employer: yes | Murugan, 2026-10-06. Do not publish until confirmed |
+| 4 | New product launch | Startup new product launch (was listed as travel & tourism turnaround) | $467,008.93 in 5 months (publish as $467,008). Confirm it is revenue, not pipeline | Employer: yes | Murugan, 2026-10-06 |
 | 4b | Leads routed | Automated sequences | 6,559 leads assigned to sales | Employer: yes | Murugan, 2026-10-06 |
 | 5 | Video at scale | Leadership branding, sales enablement, client marketing | 800+ video assets, 3.5x visibility and performance, 55 to 60% retention | Employer: yes | LinkedIn experience + profile skill |
 | 6 | CRM scale | Salesforce Account Engagement (Pardot) and Zoho Campaigns | 80,000+ contact database | Employer: yes | Profile skill |
