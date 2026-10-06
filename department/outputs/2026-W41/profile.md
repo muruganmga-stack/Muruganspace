@@ -73,7 +73,7 @@ What got cut: the 25-item skills list (move the ones that matter into the
 Skills section, where LinkedIn search reads them), "passionate", "leverage",
 "unique blend", "let's connect!", and the generic "Most B2B pipelines..." opener from v1. v2 opens on a real result instead.
 
-### 3b. About, option v3 (no company name, ~1,450 chars)
+### 3b. About, option v3 (no company name, 1,366 chars)
 
 ```
 When a CEO tells me they need more leads, I ask to see the CRM first.
