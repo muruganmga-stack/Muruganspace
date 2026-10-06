@@ -73,6 +73,38 @@ What got cut: the 25-item skills list (move the ones that matter into the
 Skills section, where LinkedIn search reads them), "passionate", "leverage",
 "unique blend", "let's connect!", and the generic "Most B2B pipelines..." opener from v1. v2 opens on a real result instead.
 
+### 3b. About, option v3 (no company name, ~1,450 chars)
+
+```
+When a CEO tells me they need more leads, I ask to see the CRM first.
+
+It's usually full. Thousands of contacts, a few hundred old conversations, and no system telling anyone who to talk to this week.
+
+That gap is where I work. I've spent 10+ years leading B2B marketing in-house, turning databases into demand:
+↳ $500K+ in pipeline and $300K+ in revenue from nurturing programs
+↳ 1,200+ dormant accounts reactivated with automated sequences
+↳ An 80,000+ contact CRM run across Pardot and Zoho
+↳ A ₹45L+ segment turnaround in 5 months
+↳ 800+ video assets built for sales enablement and leadership branding
+
+Now I do this as a fractional CMO for B2B companies:
+1. GTM strategy: who to sell to, what to say, which channels earn the right to a meeting
+2. Demand gen builds: LinkedIn, outbound and nurturing wired to the same scoring and follow-up
+3. AI automation: Claude-based research, scoring and reporting so a small team runs like a big one
+
+Best fit: founders and marketing leaders at B2B companies who own a revenue number and know growth can't keep running on referrals.
+
+Not a fit: B2C brands, or teams that only want someone to run ads.
+
+I write about these systems every week in The B2B Growth System.
+
+Start with a 30-minute Pipeline Teardown. Bring your numbers and you'll leave with the 3 fixes I'd make first.
+
+calendly.com/murugan-mga/30min
+```
+
+Recommended: v3. The company name stays in Experience, where it already sits next to your title.
+
 ### 4. Featured (3 slots, in this order)
 
 | Slot | Item | Title to use |
