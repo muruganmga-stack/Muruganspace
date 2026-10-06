@@ -38,40 +38,40 @@ Every visitor from every post now sees a next step under your name.
 Why A: it leads with who's buying, says what changes, and puts the proof
 above the fold.
 
-### 3. About (replace all of it, 1,451 chars)
+### 3. About (replace all of it, 1,445 chars)
 
 ```
-Most B2B pipelines don't have a lead problem. They have a system problem.
+1,200+ accounts in our CRM had gone quiet. Automated sequences brought them back into sales conversations.
 
-I've spent 10+ years building the systems behind marketing that sales actually trusts: demand generation, nurturing, automation and video, wired into one pipeline.
+That's the work I do: finding the revenue already sitting in a business, then building the system that keeps it moving.
 
-As Marketing Head at Champions Group, that work has:
+10+ years in B2B. Marketing Head at Champions Group, where that work has:
 ↳ Influenced $500K+ in pipeline and $300K+ in revenue through nurturing programs
-↳ Reactivated 1,200+ dormant accounts with automation-driven sequences
 ↳ Run an 80,000+ contact CRM across Pardot and Zoho
 ↳ Delivered a ₹45L+ turnaround in the travel and tourism segment in 5 months
+↳ Lifted lead magnet ROI by 40%+ across verticals
 ↳ Produced 800+ video assets for leadership branding and sales enablement
 
-What I help B2B CEOs and marketing leaders fix:
-1. Pipeline that still depends on referrals or founder hustle
-2. Leads that sales calls "bad" because nobody agreed on fit
-3. A CRM full of contacts nobody is talking to
-4. An AI plan for marketing that is still a slide
+The problems CEOs and marketing leaders bring me:
+1. Revenue still rides on referrals and the founder's calendar
+2. Sales and marketing argue about lead quality every Monday
+3. Thousands of contacts in the CRM, and nobody is talking to them
+4. The board asked for an AI plan for marketing and there isn't one yet
 
-How I work: GTM strategy sprints, demand gen system builds and AI automation, as a fractional CMO. Built on Salesforce, Pardot, HubSpot and Claude-based workflows.
+I fix these as a fractional CMO: GTM strategy sprints, demand gen builds and AI automation, on Salesforce, Pardot, HubSpot and Claude.
 
-Not a fit: B2C brands, or teams looking for someone to just run ads.
+Not a fit: B2C brands, or teams that only want someone to run ads.
 
-I also write The B2B Growth System, a newsletter on how pipeline actually gets built.
+Every week I break down one of these systems in my newsletter, The B2B Growth System.
 
-If your pipeline is flat and you can't say why, book a 30-minute Pipeline Teardown. You'll leave with the 3 biggest leaks and what I'd fix first, whether or not we work together.
+Want to know where your revenue is leaking? Book a 30-minute Pipeline Teardown. You'll leave with the 3 leaks I'd fix first, whether we work together or not.
 
 calendly.com/murugan-mga/30min
 ```
 
 What got cut: the 25-item skills list (move the ones that matter into the
 Skills section, where LinkedIn search reads them), "passionate", "leverage",
-"unique blend", and "let's connect!".
+"unique blend", "let's connect!", and the generic "Most B2B pipelines..." opener from v1. v2 opens on a real result instead.
 
 ### 4. Featured (3 slots, in this order)
 
