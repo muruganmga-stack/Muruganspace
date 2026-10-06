@@ -5,8 +5,10 @@ description: Play 04. Turn raw ideas into LinkedIn posts engineered for a specif
 
 # Play 04: Post engineer
 
-Always apply `department/context/voice.md`. Use the `thought-leadership` and
-`voice-and-tone` skills if available.
+Always apply `department/context/voice.md`. Write every post with the
+`b2b-linkedin-post-writer` skill (house style, hook patterns, formats, integrity
+rules). For any carousel, banner, quote card or post graphic, use the
+`murugan-linkedin-visual-system` skill. Never invent a new look.
 
 ## Pick the job first
 

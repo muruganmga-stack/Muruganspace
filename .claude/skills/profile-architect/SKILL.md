@@ -5,7 +5,11 @@ description: Play 02. Rebuild Murugan's LinkedIn profile (headline, About, Featu
 
 # Play 02: Profile architect
 
-Use with the `linkedin-profile-optimizer` and `voice-and-tone` skills if available.
+Use with the `linkedin-profile-optimizer` skill for section rules. One override:
+that skill positions Murugan for CMO job roles. This department positions him
+for **consulting and fractional CMO work**, so every section ends in the
+Pipeline Teardown call, not "open to roles". Visual changes (banner, Featured
+thumbnails) go through `murugan-linkedin-visual-system`.
 
 ## Inputs
 - Current profile text pasted into `department/inputs/profile/current.md`

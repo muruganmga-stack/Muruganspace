@@ -12,8 +12,12 @@ hustle, referrals or one channel. Three entry points:
 3. **AI and automation in marketing**: replacing manual research, enrichment,
    content and reporting work with Claude-based workflows.
 
-> TODO (Murugan): add pricing bands or a starting price, and which of the three
-> you want to lead with. Default lead offer until then: GTM strategy sprint.
+Public framing: **Fractional CMO** (as on the profile), with the GTM strategy
+sprint as the default entry offer.
+
+> TODO (Murugan): add a starting price or price band for the sprint and the
+> fractional retainer. Calls can be booked without it, but play 08 can't qualify
+> budget until it exists.
 
 ## The call we book
 
@@ -21,7 +25,7 @@ hustle, referrals or one channel. Three entry points:
 **Promise:** "In 30 minutes you leave with the 3 biggest leaks in your pipeline
 and what I'd fix first. Useful whether or not we work together."
 **Who it's for:** prospects scoring 55+ who have replied at least once.
-**Booking link:** TODO (Calendly link)
+**Booking link:** https://calendly.com/murugan-mga/30min
 
 ## Why someone buys
 

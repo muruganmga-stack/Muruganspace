@@ -7,7 +7,9 @@ consulting calls for B2B growth, demand generation and GTM strategy work.
 ## North star
 
 **Qualified consulting calls booked per month.** Everything else is a leading
-indicator. Targets for the first 90 days:
+indicator. Starting base (2026-10-06): 16,113 followers, newsletter The B2B
+Growth System. The learning loop recalibrates these targets after 3 weeks of
+real data. Targets for the first 90 days:
 
 | Metric | Month 1 | Month 2 | Month 3 |
 |---|---|---|---|
